@@ -48,7 +48,7 @@ int main()
 /*como no se si el usuario escribira en mayusculas o minusculas, se cambia todo a mayusculas*/
 /*para el cambio, se requiere un ciclo de 4 iteraciones, que cambie caracter por caracter a mayusculas*/
 /*NOTA: por alguna razon al querer hacerlo directo con toda la palabra no me lo permitio*/
-    for (int m=0;m<3;++m)
+    for (int m=0;m<4;++m)
     {
         rfc1[m]=toupper(rfc1[m]);
     }
